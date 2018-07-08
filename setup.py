@@ -97,7 +97,7 @@ setup(
             "pytest-xdist>=1.22,<2",
             "pytest>=3.3,<4",
             "requests>=2.9.1, <3",
-            "tox>=3.0,<3.1",
+            "tox>=3.1,<3.2",
             "rstcheck>=2.2, <4.0",
         ],
         'examples': [
